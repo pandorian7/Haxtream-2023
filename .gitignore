@@ -1,1 +1,4 @@
 .cph/*
+*.exe
+*.bin
+.vscode/
